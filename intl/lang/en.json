@@ -1,0 +1,120 @@
+{
+    "home": "Welcome",
+    "nav.home": "Home",
+    "nav.contact": "Contact us",
+    "nav.about": "About us",
+    "nav.faqs": "FAQS",
+    "nav.account": "Account",
+    "nav.login": "Login",
+    "nav.signup": "Create account",
+    "footer.header": "Extra Links",
+    "signup.now": "Sign Up Now",
+
+    "home.h3": "Preserve and Maximize your Resources.",
+    "home.h3.p": "We are one of the most profitable trading and consulting companies.",
+    "home.h4.1": "Diligence",
+    "home.h4.1-p": "Our loyalty to our Investors and partners coincides with our conviction that we offer a quality of service cannot be overemphasized.",
+    "home.h4.2": "Risk Management",
+    "h.h4.2.p": "On your part, no guesswork is needed. Patrick Investment Services uses expert traders to monitor and exchange easily and more efficiently.",
+
+    "h.h4.3": "Tactical",
+    "h.h4.3.p": "By investing resources in research & quantitative analysis to offer better insights to the industry, we are committed to pursuing superior returns.",
+
+    "h.2": "Who we are",
+    "h.2.d": "We're knowledgeable about making benefits higher",
+    "h.2.p": "For those who are not familiar with trading, we offer an opportunity to earn good profits by investing their coins in the increasingly growing crypto-currency industry. For our customers, we deliver a range of investment options to choose from in a way that suits them perfectly.",
+
+    "h.3": "Do you live a complicated, busy life? No worries, we've got you covered.",
+    "h.3.d": "We manage your resources with maximum knowledge and versatility.",
+    "h.3.p": "We use skilled traders and Bots to track and trade effectively on your behalf. No guesswork is required.",
+    "h.3.more": "Read More",
+
+    "h.count.1": "Total Investments",
+    "h.count.2": "Weekly Payout",
+    "h.count.3": "Esteemed Investors",
+
+    "h.about.h": "We Provide The Solutions To Grow Your Investments Faster",
+    "h.about.p1": "Trusted By Over 100,000 Worldwide ",
+    "h.about.p2": "With Over 25 Years of Experience",
+    "h.about.l-more": "Learn More",
+
+    "h.t.h": "Our Testimonials",
+    "h.t.p1": "As a approve of concept, here is a few amongst the many testimonies",
+    "h.t.p2": "our investors have over the years.",
+
+    "h.t.1.n": "Product Designer",
+    "h.t.1.d": " Digital currency investment services are not an easy route to follow, but with premium services and committed customer support, PIS have made me make it to the top.",
+
+    "h.t.2.n": "PR Manager",
+    "h.t.2.d": "Nothing makes me more satisfied with this platform than the rapid and steady pay-out system.",
+
+    "h.t.3.n": "Producer",
+    "h.t.3.d": "I was in the dark about it all and I owe this very insightful investment platform and their team all of my success.",
+
+    "h.t.4.n": "Business Man",
+    "h.t.4.d": "Patrick Investments Services is beating other programs in which I have been engaged, and the level of transparency is world-className.",
+
+    "h.c.h": "Need a Quick Query?",
+    "h.c.d": "Depending on the option that works for your schedule, we are always one step/dial away, do not hesitate to reach out.",
+
+    "h.c.1": "Direct line numbers",
+    "h.c.2": "Our Email",
+    "h.c.3": "Our Location",
+
+    "h.f.h": "Make a request now.",
+    "h.f.d": "Get in touch with us, let's talk and bring that dream of yours to life.",
+
+    "h.f.n": "Name",
+    "h.f.p": "Phone number",
+    "h.f.s": "Subject",
+    "h.f.m": "Message",
+    "h.f.b": "Request a call back",
+
+    "h.m.h": "We Help You Achieve Goals",
+    "h.m.h.p": "Trusted By Over 100,000 Worldwide With Over 25 Years of Experience.",
+
+    "s.1": "Trading, Consulting & Management",
+    "s.1.p.1": "We trade to optimize profits for our customers with the aid of our",
+    "s.1.p.2": "experienced team of traders, long-term trading experiences, and market research.",
+    "s.1.action": "Keep Going",
+
+    "s.2": "Conquer your trading fears",
+    "s.2.p.1": "With our reputable and tested trading solutions by experts",
+    "s.2.p.2": "We guarantee accurate data analysis and precision on every trade.",
+    "learn-more": "Learn More",
+
+    "s.3": "Invest & Monitor Profit from Anywhere",
+    "s.3.p.1": "We provision you with on the move analysis of your investment",
+    "s.3.p.2": "Allowing you to profit from the comfort of any location.",
+
+    "c.f.h": "Get In Touch",
+    "c.f.h.p": "Let's start a project together",
+    "form.send": "Send Message",
+
+    "about.h": "All-in-One Professional Solution for",
+    "about.h.2": "Your Business",
+    "about.h2.1": "Vision, passion and marketing excellence.",
+    "about.h2.2": "Growing your brand through health education.",
+    "about.h2.3": "Get answers and advices from Professionals.",
+
+    "about.h.4": "Helping clients win and keep customers - profitably!",
+    "about.h.4.a": "Theory that is relative to your marketing needs",
+    "about.h.4.b": "Knowing more about business, consumers and society",
+
+    "faq": "Frequently Asked Questions",
+    "f.1.q": "01. Why Do I Need To Invest With Patrick Investment Services?",
+    "f.1.a": "Patrick Investment Services to a Million goal stands for excellence, entrepreneurship and professionalism. Via Foreign Exchange markets, we specialize in producing passive returns for our  members and pushing creative ideas through further diversification.",
+    "f.2.q": "02. Who Is Permitted To Join Our Platform?",
+    "f.2.a": "Customers must, as a rule of thumb, be 18 or older to trade or invest in either of our plans. Our regulatory body mandates that no clients under the age of 18 are authorized to open an account and this is strictly enforced by us.",
+    "f.3.q": "03. Can I Create More Than One Account?",
+    "f.3.a": "Trading or investment account duplication is recorded as it is against our law to own multiple accounts, instead of making multiple investment plans on the same account.",
+    "f.4.q": "04. When Can I Withdraw My Earnings?",
+    "f.4.a": "As stated in your investment plan, this depends on the duration. Each package is special and has a time limit for benefit access listed.",
+    "f.5.q": "05. How Long Does It Take To Receive My Earnings?",
+    "f.5.a": "On completion of the withdrawal process, with the wallet address of your choosing, your money will be sent to you within 24 hours. Effective and assured withdrawals are given by Patrick Investment Services.",
+    "f.6.q": "06. What is the possibility that i will earn?",
+    "f.6.a": "There is always a percentage chance of losing money, but here you are investing with an asset management firm and we guarantee capital protection on all invested funds. This means that the amount paid at the moment of trade is protected by insurance if trading goes south. We have a one million dollar Employee Negligence cover as well.",
+    "f.7.q": "07. How Do I Invest/Upgrade A Plan?",
+    "f.7.a": "You have the option to withdraw all your assets, including profits made, or retain the funds and  withdraw the profits, after the time of trading an accumulated interest on your account. If your earnings are appropriate for a package that you want to upgrade or you want to opt for compounding, inform us by email so that you can determine when to upgrade.",
+    "goal": "We Help You Achieve Goals"
+}
