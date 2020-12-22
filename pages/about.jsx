@@ -5,7 +5,7 @@ import useTranslation from "../intl/useTranslation";
 export default function About() {
     const { t } = useTranslation();
     return (
-        <Layout title={t("about.page")}>
+        <Layout title={t("nav.about")}>
             <div className="breadcrumb-section jarallax pixels-bg">
                 <div className="container text-center">
                     <h1>{t("nav.about")}</h1>
