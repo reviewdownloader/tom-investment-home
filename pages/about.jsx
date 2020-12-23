@@ -36,9 +36,7 @@ export default function About() {
                                     <div className="section-heading-line line-thin"></div>
                                     <div className="text-content">
                                         <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut
-                                            labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris
-                                            nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor.
+                                            {t("app.about")}
                                         </p>
                                     </div>
                                 </div>

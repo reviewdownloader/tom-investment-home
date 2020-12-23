@@ -13,8 +13,7 @@ export const Footer = () => {
                                 <img src="img/logos/logo-footer-2.png" id="footer_logo" alt="logo" />
                             </a>
                             <p className="mt-20">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                                dolore magna aliqua.
+                                {t("app.about-s")}
                             </p>
                         </div>
                         <div className="col-md-6 col-sm-6 col-12">

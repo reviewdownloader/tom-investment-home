@@ -3,7 +3,6 @@ import { Layout } from "../components/Layout";
 import Partners from "../components/Partner";
 import { Slider } from "../components/Slider";
 import useTranslation from "../intl/useTranslation";
-import styles from "../styles/Home.module.css";
 
 export default function Home() {
     const { t } = useTranslation();

@@ -1,10 +1,20 @@
-import { createContext, useState } from "react";
+import { createContext, useEffect, useState } from "react";
 
-export const defaultLang = "en";
-export const locales = ["en"];
+export let defaultLang = "en";
+export const locales = ["en", "fr", "de", "pl", "es"];
 export const LanguageContext = createContext([]);
 
 export const LanguageProvider = ({ children }) => {
-    const [locale, setLocale] = useState("en");
+    // update
+    useEffect(() => {
+        // check local storage
+        const lng = localStorage.getItem("lng");
+        // default language from browser
+        const lang = window.navigator.language.split("-")[0];
+        defaultLang = lng || lang || "";
+        setLocale(defaultLang);
+    }, []);
+
+    const [locale, setLocale] = useState(defaultLang);
     return <LanguageContext.Provider value={[locale, setLocale]}>{children}</LanguageContext.Provider>;
 };

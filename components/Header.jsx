@@ -1,8 +1,22 @@
-import Link from "next/link";
+import { useEffect, useState } from "react";
 import useTranslation from "../intl/useTranslation";
 
+const langs = [
+    { title: "English", value: "en" },
+    { title: "Spanish", value: "es" },
+    { title: "French", value: "fr" },
+    { title: "German", value: "de" },
+    { title: "Polish", value: "pl" }
+];
 export const Header = () => {
-    const { t } = useTranslation();
+    const { t, locale, setLocale } = useTranslation();
+    const idx = langs.findIndex((c) => c.value === locale);
+    const [lang, setLang] = useState(langs[idx]);
+
+    useEffect(() => {
+        const idx = langs.findIndex((c) => c.value === locale);
+        setLang(langs[idx]);
+    }, [locale]);
     return (
         <header>
             <nav id="navigation4" className="container navigation">
@@ -33,6 +47,26 @@ export const Header = () => {
                                     <a href="/">{t("nav.login")}</a>
                                     <a href="/create">{t("nav.signup")}</a>
                                 </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#">{lang.title}</a>
+                            <ul className="nav-dropdown">
+                                {langs.map((item, idx) => (
+                                    <li key={idx}>
+                                        <a
+                                            onClick={() => {
+                                                localStorage.setItem("lng", item.value);
+                                                setLocale(item.value);
+                                                setLang(item);
+                                            }}
+                                            className={item.value === lang.value ? "text-primary" : ""}
+                                            href="#"
+                                        >
+                                            {item.title}
+                                        </a>
+                                    </li>
+                                ))}
                             </ul>
                         </li>
                     </ul>
