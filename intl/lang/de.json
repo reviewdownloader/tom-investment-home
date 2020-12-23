@@ -1,1 +1,120 @@
-{}
+{
+    "home": "Welkom",
+    "nav.home": "Huis",
+    "nav.contact": "Neem contact met ons op",
+    "nav.about": "Over ons",
+    "nav.faqs": "Veel Gestelde Vragen",
+    "nav.account": "Account",
+    "nav.login": "Log in",
+    "nav.signup": "Maak een account aan",
+    "footer.header": "Extra Links",
+    "signup.now": "Meld u nu aan",
+
+    "home.h3": "Bewaar en maximaliseer uw bronnen.",
+    "home.h3.p": "Wij zijn een van de meest winstgevende handels- en adviesbedrijven.",
+    "home.h4.1": "IJver",
+    "home.h4.1-p": "Onze loyaliteit aan onze investeerders en partners valt samen met onze overtuiging dat we een kwaliteit van dienstverlening bieden die niet genoeg kan worden benadrukt.",
+    "home.h4.2": "Risicomanagement",
+    "h.h4.2.p": "Van uw kant is giswerk niet nodig. Patrick Investment Services maakt gebruik van deskundige handelaren om gemakkelijker en efficiënter te monitoren en uit te wisselen.",
+
+    "h.h4.3": "Tactisch",
+    "h.h4.3.p": "Door middelen te investeren in onderzoek en kwantitatieve analyse om de industrie betere inzichten te bieden, streven we naar een superieur rendement.",
+
+    "h.2": "Wie we zijn",
+    "h.2.d": "We zijn goed geïnformeerd over het verhogen van de voordelen",
+    "h.2.p": "Voor degenen die niet bekend zijn met handelen, bieden we de mogelijkheid om goede winsten te behalen door hun munten te investeren in de steeds groeiende crypto-valuta-industrie. Voor onze klanten bieden we een scala aan investeringsopties om uit te kiezen op een manier die perfect bij hen past.",
+
+    "h.3": "Leef je een ingewikkeld, druk leven? Geen zorgen, we hebben u gedekt.",
+    "h.3.d": "Wij beheren uw middelen met maximale kennis en veelzijdigheid.",
+    "h.3.p": "We gebruiken bekwame handelaren en bots om namens u effectief te traceren en te handelen. Giswerk is niet nodig.",
+    "h.3.more": "Lees verder",
+
+    "h.count.1": "Totale investeringen",
+    "h.count.2": "Wekelijkse uitbetaling",
+    "h.count.3": "Geachte investeerders",
+
+    "h.about.h": "Wij bieden de oplossingen om uw investeringen sneller te laten groeien",
+    "h.about.p1": "Vertrouwd door meer dan 100.000 wereldwijd ",
+    "h.about.p2": "Met meer dan 25 jaar ervaring",
+    "h.about.l-more": "Leer meer",
+
+    "h.t.h": "Onze getuigenissen",
+    "h.t.p1": "Om het concept goed te keuren, zijn hier enkele van de vele getuigenissen",
+    "h.t.p2": "onze investeerders hebben door de jaren heen.",
+
+    "h.t.1.n": "Product ontwerper",
+    "h.t.1.d": " Beleggingsdiensten in digitale valuta zijn geen gemakkelijke weg om te volgen, maar met premiumdiensten en toegewijde klantenondersteuning heeft PIS me de top laten bereiken.",
+
+    "h.t.2.n": "PR Manager",
+    "h.t.2.d": "Niets maakt mij meer tevreden over dit platform dan het snelle en gestage uitbetalingssysteem.",
+
+    "h.t.3.n": "Producent",
+    "h.t.3.d": "Ik tastte er allemaal over in en ik ben dit zeer inzichtelijke investeringsplatform en hun team al mijn succes te danken.",
+
+    "h.t.4.n": "Zakenman",
+    "h.t.4.d": "Patrick Investments Services verslaat andere programma's waarin ik betrokken ben geweest, en het transparantieniveau is van wereldklasse.",
+
+    "h.c.h": "Een snelle vraag nodig?",
+    "h.c.d": "Afhankelijk van de optie die voor uw schema werkt, zijn we altijd een stap verwijderd, aarzel niet om contact op te nemen.",
+
+    "h.c.1": "Directe lijnnummers",
+    "h.c.2": "Onze e-mail",
+    "h.c.3": "onze locatie",
+
+    "h.f.h": "Doe nu een verzoek.",
+    "h.f.d": "Neem contact met ons op, laten we praten en breng uw droom tot leven.",
+
+    "h.f.n": "Naam",
+    "h.f.p": "Telefoonnummer",
+    "h.f.s": "Onderwerpen",
+    "h.f.m": "Bericht",
+    "h.f.b": "Verzoek om terug te bellen",
+
+    "h.m.h": "Wij helpen u uw doelen te bereiken",
+    "h.m.h.p": "Vertrouwd door meer dan 100.000 wereldwijd met meer dan 25 jaar ervaring.",
+
+    "s.1": "Handel, advies en management",
+    "s.1.p.1": "We handelen om de winst voor onze klanten te optimaliseren met behulp van onze",
+    "s.1.p.2": "ervaren team van handelaren, handelservaringen op lange termijn en marktonderzoek.",
+    "s.1.action": "Blijven gaan",
+
+    "s.2": "Overwin uw handelsangsten",
+    "s.2.p.1": "Met onze gerenommeerde en geteste handelsoplossingen door experts",
+    "s.2.p.2": "We garanderen nauwkeurige gegevensanalyse en precisie voor elke transactie.",
+    "learn-more": "Leer meer",
+
+    "s.3": "Investeer en controleer uw winst vanaf elke locatie",
+    "s.3.p.1": "Wij voorzien u van analyse van uw investering onderweg",
+    "s.3.p.2": "Zodat u kunt profiteren van het comfort van elke locatie.",
+
+    "c.f.h": "Neem contact op",
+    "c.f.h.p": "Laten we samen een project starten",
+    "form.send": "Bericht verzenden",
+
+    "about.h": "All-in-One professionele oplossing voor",
+    "about.h.2": "Uw bedrijf",
+    "about.h2.1": "Visie, passie en uitstekende marketing.",
+    "about.h2.2": "Uw merk laten groeien door gezondheidseducatie.",
+    "about.h2.3": "Krijg antwoorden en advies van professionals.",
+
+    "about.h.4": "Klanten helpen om klanten te winnen en te behouden - winstgevend!",
+    "about.h.4.a": "Theorie die betrekking heeft op uw marketingbehoeften",
+    "about.h.4.b": "Meer weten over het bedrijfsleven, de consumenten en de samenleving",
+
+    "faq": "Veelgestelde vragen",
+    "f.1.q": "01. Waarom moet ik bij Patrick Investment Services investeren?",
+    "f.1.a": "Patrick Investment Services to a Million-doel staat voor uitmuntendheid, ondernemerschap en professionaliteit. Via deviezenmarkten zijn we gespecialiseerd in het produceren van passieve rendementen voor onze leden en het stimuleren van creatieve ideeën door verdere diversificatie.",
+    "f.2.q": "02. Wie mag lid worden van ons platform?",
+    "f.2.a": "Klanten moeten als vuistregel 18 jaar of ouder zijn om te handelen of te investeren in een van onze plannen. Onze regelgevende instantie schrijft voor dat geen enkele klant onder de 18 jaar gemachtigd is om een ​​rekening te openen en dit wordt strikt door ons gehandhaafd. ",
+    "f.3.q": "03. Kan ik meer dan één account aanmaken?",
+    "f.3.a": "Het dupliceren van handels- of investeringsrekeningen wordt geregistreerd omdat het in strijd is met onze wet om meerdere accounts te bezitten, in plaats van meerdere investeringsplannen te maken op dezelfde rekening.",
+    "f.4.q": "04. Wanneer kan ik mijn inkomsten opnemen?",
+    "f.4.a": "Zoals vermeld in uw investeringsplan, hangt dit af van de duur. Elk pakket is speciaal en heeft een vermelde tijdslimiet voor toegang tot uitkeringen.",
+    "f.5.q": "05. Hoe lang duurt het voordat ik mijn inkomsten ontvang?",
+    "f.5.a": "Na voltooiing van het opnameproces, met het portefeuilleadres van uw keuze, wordt uw geld binnen 24 uur naar u verzonden. Effectieve en gegarandeerde opnames worden gedaan door Patrick Investment Services.",
+    "f.6.q": "06. Wat is de mogelijkheid dat ik zal verdienen?",
+    "f.6.a": "Er is altijd een procentuele kans om geld te verliezen, maar hier belegt u bij een vermogensbeheerder en wij garanderen kapitaalbescherming op alle geïnvesteerde fondsen. Dit betekent dat het bedrag dat wordt betaald op het moment van handelen wordt beschermd door een verzekering als de handel naar het zuiden gaat. We hebben ook een dekking van een miljoen dollar voor Nalatigheid van werknemers. ",
+    "f.7.q": "07. Hoe kan ik een plan investeren / upgraden?",
+    "f.7.a": "U heeft de mogelijkheid om al uw activa op te nemen, inclusief gemaakte winsten, of het geld te behouden en de winst op te nemen, na het verhandelen van een opgebouwde rente op uw rekening. Als uw inkomsten geschikt zijn voor een pakket dat u wilt upgraden of u wilt kiezen voor compounding, laat het ons dan per e-mail weten, zodat u kunt bepalen wanneer u wilt upgraden. ",
+    "goal": "Wij helpen u doelen te bereiken"
+}

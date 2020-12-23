@@ -1,1 +1,119 @@
-{}
+{
+    "home": "Bienvenue",
+    "nav.home": "Accueil",
+    "nav.contact": "Contactez-nous",
+    "nav.about": "À propos de nous",
+    "nav.faqs": "FAQS",
+    "nav.account": "Compte",
+    "nav.login": "Connexion",
+    "nav.signup": "Créer un compte",
+    "footer.header": "Liens supplémentaires",
+    "signup.now": "Inscrivez-vous maintenant",
+
+    "home.h3": "Préservez et maximisez vos ressources.",
+    "home.h3.p": "Nous sommes l'une des sociétés de trading et de conseil les plus rentables.",
+    "home.h4.1": "Diligence",
+    "home.h4.1-p": "Notre fidélité à nos Investisseurs et partenaires coïncide avec notre conviction que nous offrons une qualité de service ne saurait être surestimée.",
+    "home.h4.2": "Gestion des risques",
+    "h.h4.2.p": "De votre côté, aucune conjecture n'est nécessaire. Patrick Investment Services utilise des traders experts pour surveiller et échanger facilement et plus efficacement.",
+
+    "h.h4.3": "Tactique",
+    "h.h4.3.p": "En investissant des ressources dans la recherche et l'analyse quantitative pour offrir de meilleures perspectives à l'industrie, nous nous engageons à rechercher des rendements supérieurs.",
+
+    "h.2": "Qui nous sommes",
+    "h.2.d": "Nous savons comment augmenter les bénéfices",
+    "h.2.p": "Pour ceux qui ne sont pas familiarisés avec le trading, nous offrons la possibilité de réaliser de bons profits en investissant leurs pièces dans le secteur de plus en plus grandissant des crypto-monnaies. Pour nos clients, nous proposons une gamme d'options d'investissement. de choisir d'une manière qui leur convient parfaitement. ",
+
+    "h.3": "Vivez-vous une vie compliquée et bien remplie? Pas de souci, nous sommes là pour vous.",
+    "h.3.d": "Nous gérons vos ressources avec un maximum de connaissances et de polyvalence.",
+    "h.3.p": "Nous utilisons des traders qualifiés et des robots pour suivre et négocier efficacement en votre nom. Aucune conjecture n'est requise.",
+    "h.3.more": "En savoir plus",
+
+    "h.count.1": "Total des investissements",
+    "h.count.2": "Paiement hebdomadaire",
+    "h.count.3": "Estimés investisseurs",
+
+    "h.about.h": "Nous fournissons les solutions pour accroître vos investissements plus rapidement",
+    "h.about.p1": "Plus de 100 000 personnes dans le monde font confiance",
+    "h.about.p2": "Avec plus de 25 ans d'expérience",
+    "h.about.l-more": "En savoir plus",
+
+    "h.t.h": "Nos témoignages",
+    "h.t.p1": "En tant qu'approbation du concept, voici quelques-uns parmi les nombreux témoignages",
+    "h.t.p2": "nos investisseurs l'ont fait au fil des ans.",
+
+    "h.t.1.n": "Product Designer",
+    "h.t.1.d": "Les services d'investissement en monnaie numérique ne sont pas une voie facile à suivre, mais avec des services premium et un support client engagé, PIS m'a permis d'atteindre le sommet.",
+
+    "h.t.2.n": "PR Manager",
+    "h.t.2.d": "Rien ne me satisfait plus de cette plateforme que le système de paiement rapide et régulier.",
+
+    "h.t.3.n": "Producteur",
+    "h.t.3.d": "J'étais dans l'ignorance de tout cela et je dois à cette plateforme d'investissement très perspicace et à leur équipe tout mon succès.",
+
+    "h.t.4.n": "Homme d'affaires",
+    "h.t.4.d": "Patrick Investments Services bat les autres programmes dans lesquels j'ai été engagé, et le niveau de transparence est de classe mondiale.",
+
+    "h.c.h": "Besoin d'une requête rapide?",
+    "h.c.d": "En fonction de l'option qui convient à votre emploi du temps, nous sommes toujours à une étape / numérotation, n'hésitez pas à nous contacter.",
+
+    "h.c.1": "Numéros de ligne directe",
+    "h.c.2": "Notre e-mail",
+    "h.c.3": "Notre emplacement",
+
+    "h.f.h": "Faites une demande maintenant.",
+    "h.f.d": "Contactez-nous, parlons et donnons vie à votre rêve.",
+
+    "h.f.n": "Nom",
+    "h.f.p": "Numéro de téléphone",
+    "h.f.s": "Sujet",
+    "h.f.m": "Message",
+    "h.f.b": "Demander un rappel",
+    "h.m.h": "Nous vous aidons à atteindre vos objectifs",
+    "h.m.h.p": "Plus de 100 000 personnes à travers le monde font confiance avec plus de 25 ans d'expérience.",
+
+    "s.1": "Commerce, conseil et gestion",
+    "s.1.p.1": "Nous négocions pour optimiser les profits de nos clients à l'aide de nos",
+    "s.1.p.2": "équipe expérimentée de traders, expériences de trading à long terme et études de marché.",
+    "s.1.action": "Continue",
+
+    "s.2": "Conquérir vos peurs de trading",
+    "s.2.p.1": "Avec nos solutions de trading réputées et testées par des experts",
+    "s.2.p.2": "Nous garantissons une analyse précise des données et une précision sur chaque transaction.",
+    "learn-more": "En savoir plus",
+
+    "s.3": "Investir et surveiller les bénéfices de n'importe où",
+    "s.3.p.1": "Nous mettons à votre disposition une analyse en déplacement de votre investissement",
+    "s.3.p.2": "Vous permettant de profiter du confort de n'importe quel endroit.",
+
+    "c.f.h": "Contactez-nous",
+    "c.f.h.p": "Commençons un projet ensemble",
+    "form.send": "Envoyer un message",
+
+    "about.h": "Solution professionnelle tout-en-un pour",
+    "about.h.2": "Votre entreprise",
+    "about.h2.1": "Vision, passion et excellence marketing.",
+    "about.h2.2": "Développez votre marque grâce à l'éducation à la santé.",
+    "about.h2.3": "Obtenez des réponses et des conseils de professionnels.",
+
+    "about.h.4": "Aider les clients à gagner et à fidéliser les clients - de manière rentable!",
+    "about.h.4.a": "Théorie relative à vos besoins marketing",
+    "about.h.4.b": "En savoir plus sur les entreprises, les consommateurs et la société",
+
+    "faq": "Questions Fréquemment Posées",
+    "f.1.q": "01. Pourquoi dois-je investir avec Patrick Investment Services?",
+    "f.1.a": "Patrick Investment Services to a Million goal est synonyme d'excellence, d'entrepreneuriat et de professionnalisme. Via les marchés des changes, nous nous spécialisons dans la production de rendements passifs pour nos membres et dans la promotion d'idées créatives grâce à une diversification accrue.",
+    "f.2.q": "02. Qui est autorisé à rejoindre notre plateforme?",
+    "f.2.a": "Les clients doivent, en règle générale, être âgés d'au moins 18 ans pour négocier ou investir dans l'un de nos plans. Notre organisme de réglementation exige qu'aucun client de moins de 18 ans ne soit autorisé à ouvrir un compte et ceci est strictement appliqué par nous. ",
+    "f.3.q": "03. Puis-je créer plus d'un compte?",
+    "f.3.a": "La duplication de comptes de négociation ou d'investissement est enregistrée car il est illégal de posséder plusieurs comptes, au lieu de faire plusieurs plans d'investissement sur le même compte.",
+    "f.4.q": "04. Quand puis-je retirer mes gains?",
+    "f.4.a": "Comme indiqué dans votre plan d'investissement, cela dépend de la durée. Chaque package est spécial et comporte une limite de temps pour l'accès aux avantages.",
+    "f.5.q": "05. Combien de temps faut-il pour recevoir mes revenus?",
+    "f.5.a": "A l'issue du processus de retrait, avec l'adresse de portefeuille de votre choix, votre argent vous sera envoyé dans les 24 heures. Les retraits effectifs et assurés sont effectués par Patrick Investment Services.",
+    "f.6.q": "06. Quelle est la possibilité que je gagne?",
+    "f.6.a": "Il y a toujours un pourcentage de chance de perdre de l'argent, mais ici, vous investissez dans une société de gestion d'actifs et nous garantissons la protection du capital sur tous les fonds investis. Cela signifie que le montant payé au moment de la transaction est protégé par une assurance si le commerce va vers le sud. Nous avons également une couverture de 1 million de dollars pour la négligence des employés. ",
+    "f.7.q": "07. Comment investir / mettre à niveau un plan?",
+    "f.7.a": "YVous avez la possibilité de retirer tous vos actifs, y compris les bénéfices réalisés, ou de conserver les fonds et de retirer les bénéfices, après le moment de la négociation des intérêts accumulés sur votre compte. Si vos revenus sont appropriés pour un package que vous souhaitez mettre à niveau ou si vous souhaitez opter pour la composition, informez-nous par e-mail afin que vous puissiez déterminer quand mettre à niveau.",
+    "goal": "Nous vous aidons à atteindre vos objectifs"
+}

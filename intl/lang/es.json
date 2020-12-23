@@ -1,1 +1,120 @@
-{}
+{
+    "home": "Bienvenido",
+    "nav.home": "Inicio",
+    "nav.contact": "Contáctenos",
+    "nav.about": "Quiénes somos",
+    "nav.faqs": "Preguntas frecuentes",
+    "nav.account": "Cuenta",
+    "nav.login": "Iniciar sesión",
+    "nav.signup": "Crear cuenta",
+    "footer.header": "Enlaces adicionales",
+    "signup.now": "Regístrese ahora",
+
+    "home.h3": "Conserve y maximice sus recursos",
+    "home.h3.p": "Somos una de las empresas comerciales y de consultoría más rentables",
+    "home.h4.1": "Diligencia",
+    "home.h4.1-p": "Nuestra lealtad hacia nuestros Inversores y socios coincide con nuestra convicción de que ofrecemos una calidad de servicio que no puede dejar de enfatizarse",
+    "home.h4.2": "Gestión de riesgos",
+    "h.h4.2.p": "Por su parte, no es necesario adivinar. Patrick Investment Services utiliza operadores expertos para monitorear e intercambiar de manera fácil y más eficiente.",
+
+    "h.h4.3": "Táctico",
+    "h.h4.3.p": "Al invertir recursos en investigación y análisis cuantitativo para ofrecer mejores conocimientos a la industria, nos comprometemos a obtener rendimientos superiores",
+
+    "h.2": "Quiénes somos",
+    "h.2.d": "Sabemos cómo aumentar los beneficios",
+    "h.2.p": "Para aquellos que no están familiarizados con el comercio, ofrecemos la oportunidad de obtener buenas ganancias al invertir sus monedas en la creciente industria de las criptomonedas. Para nuestros clientes, ofrecemos una variedad de opciones de inversión. para elegir de la forma que más les convenga. ",
+
+    "h.3": "¿Vive una vida complicada y ocupada? No se preocupe, lo tenemos cubierto",
+    "h.3.d": "Gestionamos sus recursos con el máximo conocimiento y versatilidad.",
+    "h.3.p": "Utilizamos traders expertos y Bots para rastrear y comerciar de manera efectiva en su nombre. No se requieren conjeturas.",
+    "h.3.more": "Leer más",
+
+    "h.count.1": "Inversiones totales",
+    "h.count.2": "Pago semanal",
+    "h.count.3": "Estimados inversores",
+
+    "h.about.h": "Brindamos las soluciones para hacer crecer sus inversiones más rápido",
+    "h.about.p1": "Más de 100.000 en todo el mundo confían",
+    "h.about.p2": "Con más de 25 años de experiencia",
+    "h.about.l-more": "Más información",
+
+    "h.t.h": "Nuestros testimonios",
+    "h.t.p1": "Como aprobación del concepto, aquí hay algunos de los muchos testimonios",
+    "h.t.p2": "nuestros inversores lo han hecho a lo largo de los años",
+
+    "h.t.1.n": "Diseñador de productos",
+    "h.t.1.d": "Los servicios de inversión en moneda digital no son una ruta fácil de seguir, pero con servicios premium y una atención al cliente comprometida, PIS me ha hecho llegar a la cima",
+
+    "h.t.2.n": "Gerente de relaciones públicas",
+    "h.t.2.d": "Nada me satisface más con esta plataforma que el sistema de pago rápido y constante",
+
+    "h.t.3.n": "Productor",
+    "h.t.3.d": "No sabía nada de todo esto y le debo a esta plataforma de inversión muy perspicaz y a su equipo todo mi éxito",
+
+    "h.t.4.n": "Hombre de negocios",
+    "h.t.4.d": "Patrick Investments Services está superando a otros programas en los que he participado, y el nivel de transparencia es de clase mundial.",
+
+    "h.c.h": "¿Necesita una consulta rápida?",
+    "h.c.d": "Dependiendo de la opción que se adapte a su horario, siempre estamos a un paso / marcando, no dude en contactarnos",
+
+    "h.c.1": "Números de línea directa",
+    "h.c.2": "Nuestro correo electrónico",
+    "h.c.3": "Nuestra ubicación",
+
+    "h.f.h": "Haz una solicitud ahora",
+    "h.f.d": "Ponte en contacto con nosotros, hablemos y dale vida a ese sueño tuyo",
+
+    "h.f.n": "Nombre",
+    "h.f.p": "Número de teléfono",
+    "h.f.s": "Asunto",
+    "h.f.m": "Mensaje",
+    "h.f.b": "Solicitar una devolución de llamada",
+
+    "h.m.h": "Le ayudamos a alcanzar sus metas",
+    "h.m.h.p": "Más de 100.000 en todo el mundo con la confianza de más de 25 años de experiencia",
+
+    "s.1": "Negociación, consultoría y gestión",
+    "s.1.p.1": "Operamos para optimizar los beneficios de nuestros clientes con la ayuda de nuestro",
+    "s.1.p.2": "equipo experimentado de comerciantes, experiencias comerciales a largo plazo e investigación de mercado",
+    "s.1.action": "Sigue adelante",
+
+    "s.2": "Conquiste tus miedos comerciales",
+    "s.2.p.1": "Con nuestras soluciones comerciales acreditadas y probadas por expertos",
+    "s.2.p.2": "Garantizamos un análisis de datos exacto y precisión en cada operación.",
+    "learn-more": "Más información",
+
+    "s.3": "Invierta y supervise las ganancias desde cualquier lugar",
+    "s.3.p.1": "Le proporcionamos un análisis en movimiento de su inversión",
+    "s.3.p.2": "Permitiéndole beneficiarse de la comodidad de cualquier lugar.",
+
+    "c.f.h": "Póngase en contacto",
+    "c.f.h.p": "Empecemos juntos un proyecto",
+    "form.send": "Enviar mensaje",
+
+    "about.h": "Solución profesional todo en uno para",
+    "about.h.2": "Su negocio",
+    "about.h2.1": "Visión, pasión y excelencia en marketing",
+    "about.h2.2": "Hacer crecer su marca mediante la educación sanitaria",
+    "about.h2.3": "Obtenga respuestas y consejos de profesionales.",
+
+    "about.h.4": "Ayudar a los clientes a ganar y mantener clientes - ¡de manera rentable!",
+    "about.h.4.a": "Teoría relativa a sus necesidades de marketing",
+    "about.h.4.b": "Conocer más sobre las empresas, los consumidores y la sociedad",
+
+    "faq": "Preguntas frecuentes",
+    "f.1.q": "01. ¿Por qué necesito invertir con Patrick Investment Services?",
+    "f.1.a": "La meta de Patrick Investment Services to a Million es sinónimo de excelencia, espíritu empresarial y profesionalismo. A través de los mercados de divisas, nos especializamos en producir retornos pasivos para nuestros miembros e impulsar ideas creativas a través de una mayor diversificación",
+    "f.2.q": "02. ¿Quién tiene permiso para unirse a nuestra plataforma?",
+    "f.2.a": "Los clientes deben, como regla general, tener 18 años o más para comerciar o invertir en cualquiera de nuestros planes. Nuestro organismo regulador exige que ningún cliente menor de 18 años esté autorizado a abrir una cuenta. y esto lo aplicamos estrictamente. ",
+    "f.3.q": "03. ¿Puedo crear más de una cuenta?",
+    "f.3.a": "La duplicación de cuentas comerciales o de inversión se registra porque es contra nuestra ley poseer varias cuentas, en lugar de realizar varios planes de inversión en la misma cuenta",
+    "f.4.q": "04. ¿Cuándo puedo retirar mis ganancias?",
+    "f.4.a": "Como se indica en su plan de inversión, esto depende de la duración. Cada paquete es especial y tiene un límite de tiempo para el acceso a los beneficios.",
+    "f.5.q": "05. ¿Cuánto tiempo se tarda en recibir mis ganancias?",
+    "f.5.a": "Una vez finalizado el proceso de retiro, con la dirección de billetera que elija, se le enviará su dinero en un plazo de 24 horas. Los retiros efectivos y asegurados los realiza Patrick Investment Services.",
+    "f.6.q": "06. ¿Cuál es la posibilidad de que gane?",
+    "f.6.a": "Siempre existe un porcentaje de probabilidad de perder dinero, pero aquí está invirtiendo con una empresa de gestión de activos y garantizamos la protección del capital en todos los fondos invertidos. Esto significa que el monto pagado en el momento de la negociación está protegido por un seguro si el comercio va hacia el sur. También tenemos una cobertura de negligencia del empleado de un millón de dólares. ",
+    "f.7.q": "07. ¿Cómo invierto / actualizo un plan?",
+    "f.7.a": "Tiene la opción de retirar todos sus activos, incluidas las ganancias obtenidas, o retener los fondos y retirar las ganancias, después del momento de negociar un interés acumulado en su cuenta. Si sus ganancias son adecuadas para un paquete que desea actualizar o desea optar por la capitalización, infórmenos por correo electrónico para que pueda determinar cuándo actualizar. ",
+    "goal": "Le ayudamos a alcanzar sus metas"
+}
