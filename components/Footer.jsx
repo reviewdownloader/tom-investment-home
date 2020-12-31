@@ -13,7 +13,7 @@ export const Footer = () => {
                                 <img src="img/logos/logo-footer-2.png" id="footer_logo" alt="logo" />
                             </a>
                             <p className="mt-20">
-                                {t("app.about-s")}
+                                {AppName} {t("app.about-s")}
                             </p>
                         </div>
                         <div className="col-md-6 col-sm-6 col-12">

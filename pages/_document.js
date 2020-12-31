@@ -10,7 +10,7 @@ class MyDocument extends Document {
         return (
             <Html lang="en">
                 <Head>
-                    <link rel="shortcut icon" href="img/logos/logo-shortcut.png" />
+                    <link rel="shortcut icon" href="img/logos/icon.png" />
                     <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css" />
                     <link rel="stylesheet" type="text/css" href="/css/themify-icons.css" />
                     <link rel="stylesheet" type="text/css" href="/css/fontawesome-all.css" />

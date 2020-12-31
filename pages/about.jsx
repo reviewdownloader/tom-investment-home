@@ -58,7 +58,7 @@ export default function About() {
                             </div>
                         </div>
                     </div>
-                    <div className="row mt-40">
+                    {/* <div className="row mt-40">
                         <div className="col-lg-4 col-md-4 col-sm-4 col-12">
                             <div className="features-box">
                                 <div className="features-box-icon">
@@ -98,7 +98,7 @@ export default function About() {
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
                 </div>
             </div>
 

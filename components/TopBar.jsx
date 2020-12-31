@@ -11,7 +11,7 @@ export const TopBar = () => (
                             <i className="fas fa-map-marker-alt"></i>New York, NY Sheram 113
                         </li>
                         <li>
-                            <i className="fa fa-envelope"></i>Email: info@tominvestment.com
+                            <i className="fa fa-envelope"></i>Email: info@patrickinvestment.com
                         </li>
                     </ul>
                 </div>
