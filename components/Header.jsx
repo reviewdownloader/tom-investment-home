@@ -61,7 +61,7 @@ export const Header = () => {
                                                 setLang(item);
                                             }}
                                             className={item.value === lang.value ? "text-primary" : ""}
-                                            href="#"
+                                            href="javascript:void(0)"
                                         >
                                             {item.title}
                                         </a>

@@ -5,13 +5,13 @@ export const TopBar = () => (
                 <div className="col-md-9 col-12">
                     <ul className="top-bar-info">
                         <li>
-                            <i className="fas fa-phone"></i> Phone: +1-23-456789
+                            <i className="fas fa-phone"></i> Phone: +1(323) 795-4915
                         </li>
                         <li>
                             <i className="fas fa-map-marker-alt"></i>New York, NY Sheram 113
                         </li>
                         <li>
-                            <i className="fa fa-envelope"></i>Email: info@patrickinvestment.com
+                            <i className="fa fa-envelope"></i>Email: info@patrickinvestmentservices.com
                         </li>
                     </ul>
                 </div>
