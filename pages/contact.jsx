@@ -27,17 +27,14 @@ export default function Contact() {
                         <div className="col-md-4 col-sm-12 col-12">
                             <div className="contact-box-place-office">
                                 <i className="icon-office-building"></i>
-                                <h4>New Yourk Office</h4>
-                                <h6>Str. Charenc France / 109</h6>
+                                <h4>Los Angeles Office</h4>
+                                <h6>5750 Wilshire Boulevard, Mid-Wilshire, Los Angeles, CA 90036</h6>
                                 <ul>
                                     <li>
-                                        <i className="fas fa-envelope-open"></i>specthemes@mail.com
+                                        <i className="fas fa-envelope-open"></i>info@tominvestment.com
                                     </li>
                                     <li>
-                                        <i className="fas fa-phone"></i>(+123) 123-456-789
-                                    </li>
-                                    <li>
-                                        <i className="fas fa-fax"></i>(+123) 456-789
+                                        <i className="fas fa-phone"></i>+1(213) 432-2266
                                     </li>
                                 </ul>
                             </div>
@@ -45,17 +42,14 @@ export default function Contact() {
                         <div className="col-md-4 col-sm-12 col-12">
                             <div className="contact-box-place-office">
                                 <i className="icon-bank"></i>
-                                <h4>London Office</h4>
-                                <h6>Str. Sheram USA / 113</h6>
+                                <h4>Dallas Office</h4>
+                                <h6>14755-14785 Preston Rd, Oaks at Williamsburg, Dallas, TX 75254</h6>
                                 <ul>
                                     <li>
-                                        <i className="fas fa-envelope-open"></i>specthemes@mail.com
+                                        <i className="fas fa-envelope-open"></i>info@tominvestment.com
                                     </li>
                                     <li>
-                                        <i className="fas fa-phone"></i>(+987) 987-654-321
-                                    </li>
-                                    <li>
-                                        <i className="fas fa-fax"></i>(+987) 123-456
+                                        <i className="fas fa-phone"></i> +(323) 795-4915
                                     </li>
                                 </ul>
                             </div>
@@ -63,17 +57,14 @@ export default function Contact() {
                         <div className="col-md-4 col-sm-12 col-12">
                             <div className="contact-box-place-office">
                                 <i className="icon-store"></i>
-                                <h4>France Office</h4>
-                                <h6>Str. Sheram USA / 113</h6>
+                                <h4>Phoenix Office</h4>
+                                <h6>2801 E Camelback Road, Biltmore, Phoenix, AZ 85016</h6>
                                 <ul>
                                     <li>
-                                        <i className="fas fa-envelope-open"></i>specthemes@mail.com
+                                        <i className="fas fa-envelope-open"></i>info@tominvestment.com
                                     </li>
                                     <li>
-                                        <i className="fas fa-phone"></i>(+987) 987-654-321
-                                    </li>
-                                    <li>
-                                        <i className="fas fa-fax"></i>(+987) 123-456
+                                        <i className="fas fa-phone"></i>+(312) 325-0492
                                     </li>
                                 </ul>
                             </div>
@@ -122,8 +113,12 @@ export default function Contact() {
                     <div className="col-md-6 col-sm-12 col-12">
                         <div className="full-background min-350">
                             <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.405250382651!2d-0.1264760844209047!3d51.50578081864282!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604cf3bc8dc73%3A0x992d4348d17f21b6!2sThe+Royal+Horseguards!5e0!3m2!1sru!2s!4v1538901529585"
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.3260067688448!2d-118.35696688471366!3d34.0611562806036!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2b92263d3b86b%3A0x218c375e63be7eb6!2s5750%20Wilshire%20Blvd%2C%20Los%20Angeles%2C%20CA%2090036%2C%20USA!5e0!3m2!1sen!2sng!4v1609685643841!5m2!1sen!2sng"
                                 className="full-width full-height"
+                                frameborder="0"
+                                allowfullscreen=""
+                                aria-hidden="false"
+                                tabindex="0"
                             ></iframe>
                         </div>
                     </div>
