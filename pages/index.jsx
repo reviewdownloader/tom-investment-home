@@ -253,17 +253,17 @@ export default function Home() {
                                 <div className="contact-icon-box">
                                     <i className="icon-phone-book"></i>
                                     <h4>{t("h.c.1")}</h4>
-                                    <h5>+11 (0) 123 456 7890 / +11 (0) 123 456 7890</h5>
+                                    <h5>+1(213) 432-2266</h5>
                                 </div>
                                 <div className="contact-icon-box">
                                     <i className="icon-opened-email-outlined-interface-symbol"></i>
                                     <h4>{t("h.c.2")}</h4>
-                                    <h5>specthemes@gmail.com / example@mail.com</h5>
+                                    <h5>info@tominvestment.com</h5>
                                 </div>
                                 <div className="contact-icon-box">
                                     <i className="icon-location"></i>
                                     <h4>{t("h.c.3")}</h4>
-                                    <h5>New York, NY Sheram 113 / London England Sheram</h5>
+                                    <h5>5750 Wilshire Boulevard, Mid-Wilshire, Los Angeles, CA 90036</h5>
                                 </div>
                             </div>
                         </div>
