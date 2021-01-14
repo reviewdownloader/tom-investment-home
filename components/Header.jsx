@@ -44,8 +44,8 @@ export const Header = () => {
                             <a href="#">{t("nav.account")}</a>
                             <ul className="nav-dropdown">
                                 <li>
-                                    <a href="/">{t("nav.login")}</a>
-                                    <a href="/create">{t("nav.signup")}</a>
+                                    <a href="https://app.patrickinvestmentservices.com">{t("nav.login")}</a>
+                                    <a href="https://app.patrickinvestmentservices.com/create-account">{t("nav.signup")}</a>
                                 </li>
                             </ul>
                         </li>

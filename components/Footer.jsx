@@ -29,17 +29,17 @@ export const Footer = () => {
                                         </li>
 
                                         <li>
-                                            <a href="/">{t("nav.signup")}</a>
+                                            <a href="https://app.patrickinvestmentservices.com/create-account">{t("nav.signup")}</a>
                                         </li>
                                     </ul>
                                 </div>
                                 <div className="col-md-6 col-sm-6">
                                     <ul className="footer-nav">
                                         <li>
-                                            <a href="#">{t("nav.login")}</a>
+                                            <a href="https://app.patrickinvestmentservices.com">{t("nav.login")}</a>
                                         </li>
                                         <li>
-                                            <a href="#">{t("nav.faqs")}</a>
+                                            <a href="/faqs">{t("nav.faqs")}</a>
                                         </li>
                                     </ul>
                                 </div>
