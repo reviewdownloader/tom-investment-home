@@ -1,5 +1,5 @@
 module.exports = {
     env: {
-        APP_NAME: "Patrick Investment"
+        APP_NAME: "Timo Stephan Investment"
     }
 };

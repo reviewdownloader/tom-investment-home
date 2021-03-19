@@ -5,13 +5,13 @@ export const TopBar = () => (
                 <div className="col-12">
                     <ul className="top-bar-info">
                         <li>
-                            <i className="fas fa-phone"></i> Phone: +1(323) 795-4915
+                            <i className="fas fa-phone"></i> Phone: +44 7451 275097
                         </li>
                         <li>
-                            <i className="fas fa-map-marker-alt"></i>5750 Wilshire Boulevard, Mid-Wilshire, Los Angeles, CA 90036
+                            <i className="fas fa-map-marker-alt"></i>4th floor 25 Copthall Avenue, London, EC2R 7BP
                         </li>
                         <li>
-                            <i className="fa fa-envelope"></i>Email: info@patrickinvestmentservices.com
+                            <i className="fa fa-envelope"></i>Email: info@timostephaninvestment.com
                         </li>
                     </ul>
                 </div>

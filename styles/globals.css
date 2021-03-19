@@ -1,7 +1,39 @@
 .text-primary {
-  color: #574294 !important;
+    color: #cd9a31 !important;
 }
 
 .contact-box-place-office {
-  padding: 2em !important;
+    padding: 2em !important;
+}
+
+.button-primary,
+.section-heading-line {
+    background: #cd9a31;
+}
+
+.service-block-content-button {
+    background: #cd9a31;
+    border-color: #cd9a31;
+}
+a:hover {
+    color: #cd9a31;
+}
+
+.contact-icon-box i,
+.primary-list li i {
+    color: #cd9a31;
+}
+.service-block:hover .service-block-content-button i {
+  color: #cd9a31;
+}
+
+.service-block-content-button:hover i {
+  color: #cd9a31 !important;
+}
+.text-left .section-heading-line {
+  background: #cd9a31;
+}
+
+.main-logo {
+  width: 54px;
 }

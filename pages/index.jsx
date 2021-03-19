@@ -253,17 +253,17 @@ export default function Home() {
                                 <div className="contact-icon-box">
                                     <i className="icon-phone-book"></i>
                                     <h4>{t("h.c.1")}</h4>
-                                    <h5>+1(213) 432-2266</h5>
+                                    <h5>+44 7451 275097</h5>
                                 </div>
                                 <div className="contact-icon-box">
                                     <i className="icon-opened-email-outlined-interface-symbol"></i>
                                     <h4>{t("h.c.2")}</h4>
-                                    <h5>info@patrickinvestmentservices.com</h5>
+                                    <h5>info@timostephaninvestment.com</h5>
                                 </div>
                                 <div className="contact-icon-box">
                                     <i className="icon-location"></i>
                                     <h4>{t("h.c.3")}</h4>
-                                    <h5>5750 Wilshire Boulevard, Mid-Wilshire, Los Angeles, CA 90036</h5>
+                                    <h5>4th floor 25 Copthall Avenue, London, EC2R 7BP</h5>
                                 </div>
                             </div>
                         </div>

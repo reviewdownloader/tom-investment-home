@@ -35,9 +35,7 @@ export default function About() {
                                     </h3>
                                     <div className="section-heading-line line-thin"></div>
                                     <div className="text-content">
-                                        <p>
-                                            {t("app.about")}
-                                        </p>
+                                        <p>{t("pp.about-s")}</p>
                                     </div>
                                 </div>
                                 <div className="primary-list mt-25">
