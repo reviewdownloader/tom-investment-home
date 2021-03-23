@@ -39,36 +39,7 @@ export default function Contact() {
                                 </ul>
                             </div>
                         </div>
-                        <div className="col-md-4 col-sm-12 col-12">
-                            <div className="contact-box-place-office">
-                                <i className="icon-bank"></i>
-                                <h4>Dallas Office</h4>
-                                <h6>14755-14785 Preston Rd, Oaks at Williamsburg, Dallas, TX 75254</h6>
-                                <ul>
-                                    <li>
-                                        <i className="fas fa-envelope-open"></i>info@timostephaninvestment.com
-                                    </li>
-                                    <li>
-                                        <i className="fas fa-phone"></i>+(323) 795-4915
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div className="col-md-4 col-sm-12 col-12">
-                            <div className="contact-box-place-office">
-                                <i className="icon-store"></i>
-                                <h4>Phoenix Office</h4>
-                                <h6>2801 E Camelback Road, Biltmore, Phoenix, AZ 85016</h6>
-                                <ul>
-                                    <li>
-                                        <i className="fas fa-envelope-open"></i>info@timostephaninvestment.com
-                                    </li>
-                                    <li>
-                                        <i className="fas fa-phone"></i>+(312) 325-0492
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
+                       
                     </div>
                 </div>
             </div>
