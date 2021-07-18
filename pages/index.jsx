@@ -258,7 +258,7 @@ export default function Home() {
                                 <div className="contact-icon-box">
                                     <i className="icon-opened-email-outlined-interface-symbol"></i>
                                     <h4>{t("h.c.2")}</h4>
-                                    <h5>info@timostephaninvestment.com</h5>
+                                    <h5>info@timoinvestmentcompany.com</h5>
                                 </div>
                                 <div className="contact-icon-box">
                                     <i className="icon-location"></i>
