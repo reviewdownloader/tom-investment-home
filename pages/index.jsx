@@ -250,11 +250,7 @@ export default function Home() {
                                 <p>{t("h.c.d")}</p>
                             </div>
                             <div>
-                                <div className="contact-icon-box">
-                                    <i className="icon-phone-book"></i>
-                                    <h4>{t("h.c.1")}</h4>
-                                    <h5>+44 7451 275097</h5>
-                                </div>
+                                
                                 <div className="contact-icon-box">
                                     <i className="icon-opened-email-outlined-interface-symbol"></i>
                                     <h4>{t("h.c.2")}</h4>

@@ -33,9 +33,7 @@ export default function Contact() {
                                     <li>
                                         <i className="fas fa-envelope-open"></i>info@timoinvestmentcompany.com
                                     </li>
-                                    <li>
-                                        <i className="fas fa-phone"></i>+44 7451 275097‬
-                                    </li>
+                                   
                                 </ul>
                             </div>
                         </div>
