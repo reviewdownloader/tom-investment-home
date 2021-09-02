@@ -8,10 +8,10 @@ export const Slider = () => {
                 <ul>
                     <li
                         data-delay="3000"
-                        data-transition="slotzoom-horizontal"
+                        data-transition=""
                         data-slotAmount="7"
-                        data-masterSpeed="1000"
-                        data-fsMasterSpeed="1000"
+                        data-masterSpeed="500"
+                        data-fsMasterSpeed="500"
                     >
                         <img
                             src="img/content/slider/slider1.jpg"
@@ -33,7 +33,7 @@ export const Slider = () => {
                             data-width="['800','800','650']"
                             data-height="none"
                             data-whitespace="normal"
-                            data-transform_idle="o:1;"
+                            data-transform_idle="o:3;"
                             data-transform_in="x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power2.easeInOut;"
                             data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
                             data-mask_in="x:50px;y:0px;s:inherit;e:inherit;"
@@ -42,7 +42,7 @@ export const Slider = () => {
                             data-splitIn="chars"
                             data-splitOut="none"
                             data-responsive_offset="on"
-                            data-elementDelay="0.01"
+                            data-elementDelay="0.03"
                         >
                             {t("s.1")}
                         </div>
@@ -101,7 +101,7 @@ export const Slider = () => {
                     </li>
                     <li
                         data-delay="3000"
-                        data-transition="slotzoom-horizontal"
+                        data-transition=""
                         data-slotamount="7"
                         data-masterspeed="1000"
                         data-fsmasterspeed="1000"
@@ -196,7 +196,7 @@ export const Slider = () => {
 
                     <li
                         data-delay="3000"
-                        data-transition="slotzoom-horizontal"
+                        data-transition=""
                         data-slotamount="7"
                         data-masterspeed="1000"
                         data-fsmasterspeed="1000"

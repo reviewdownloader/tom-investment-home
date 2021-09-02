@@ -9,7 +9,7 @@ export const TopBar = () => (
                             <i className="fas fa-map-marker-alt"></i>4th floor 25 Copthall Avenue, London, EC2R 7BP
                         </li>
                         <li>
-                            <i className="fa fa-envelope"></i>Email: info@timoinvestmentcompany.com
+                            <i className="fa fa-envelope"></i>Email: info@tominvestment.com
                         </li>
                     </ul>
                 </div>

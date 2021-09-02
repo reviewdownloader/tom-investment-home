@@ -31,7 +31,7 @@ export default function Contact() {
                                 <h6>4th floor 25 Copthall Avenue, London, EC2R 7BP</h6>
                                 <ul>
                                     <li>
-                                        <i className="fas fa-envelope-open"></i>info@timoinvestmentcompany.com
+                                        <i className="fas fa-envelope-open"></i>info@tominvestment.com
                                     </li>
                                    
                                 </ul>
